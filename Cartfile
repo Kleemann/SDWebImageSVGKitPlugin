@@ -1,2 +1,2 @@
 github "SDWebImage/SDWebImage" ~> 5.10
-github "Kleemann/SVGKit" "3.x"
+github "Kleemann/SVGKit" ~> 2.1
